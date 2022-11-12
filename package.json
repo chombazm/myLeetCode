@@ -1,0 +1,16 @@
+{
+  "name": "myleetcode",
+  "version": "1.0.0",
+  "description": "chomba chanda leetcode submissions in typescript",
+  "main": "app.js",
+  "repository": "git@github.com:chombazm/myLeetCode.git",
+  "author": "chomba <chomba@bongohive.co.zm>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only app.ts"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.8.4"
+  }
+}
